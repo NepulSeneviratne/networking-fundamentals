@@ -1,0 +1,17 @@
+Exercise-02
+06. YES
+
+Exercise-03
+05. NO
+Reason: Each Pcs have different IP addresses
+
+Exercise-04
+03. 	Need networks : 3
+	Class C default subnet mask: 255.255.255.0
+	We want to create 3 subnets.
+	New subnet: 255.255.255.11000000
+	 	    255.255.255.192
+		    255.255.255.192/26
+04. NO
+Reason: Each Pcs have different networks.
+
